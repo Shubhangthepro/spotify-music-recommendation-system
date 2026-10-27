@@ -2,9 +2,27 @@
 
 A music recommendation web app built with **FastAPI, Streamlit, and the Spotify Web API**. Enter a Spotify track ID to discover songs, explore recommendations, and rate tracks to record your preferences.
 
-## Demo
+## 🚀 Live Demo
 
-![Demo](demo/demo.gif)
+<p align="center">
+  <a href="https://shubhangthepro-spotify-music-recommendatio-streamlit-app-5kw1md.streamlit.app/">
+    <img src="https://img.shields.io/badge/🎧_Try_Live_Demo-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Try Live Demo"/>
+  </a>
+  <a href="https://spotify-music-recommendation-system-ffft.onrender.com/docs">
+    <img src="https://img.shields.io/badge/API_Documentation-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Documentation"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>🎵 Discover your next favorite song.</b><br/>
+  Explore personalized music recommendations, discover track details, and record your listening preferences through an interactive web experience.
+</p>
+
+**🌐 Launch the application:**  
+👉 [Spotify Music Recommendation System — Live App](https://shubhangthepro-spotify-music-recommendatio-streamlit-app-5kw1md.streamlit.app/)
+
+**⚡ Powered by:** Streamlit · FastAPI · Spotify Web API · SQLAlchemy
+
 
 ## Features
 
