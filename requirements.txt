@@ -1,0 +1,17 @@
+
+fastapi
+uvicorn[standard]
+streamlit
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
+spotipy
+pandas
+numpy
+plotly
+scikit-learn
+xgboost
