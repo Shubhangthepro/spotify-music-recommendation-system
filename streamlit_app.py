@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Constants and Configuration
-API_URL = "http://localhost:8000"
+API_URL = "https://spotify-music-recommendation-system-ffft.onrender.com"
 TIMEOUT = 10  # seconds
 CACHE_TTL = 3600  # 1 hour
 
